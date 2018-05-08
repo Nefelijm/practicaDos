@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+   }
+.title{
+    color: rgb(202, 44, 44);
+    text-align: center;
+    margin:3%;
+   }
+.array{
+    width:720px;
+   }
+.statement{
+    color: white;
+    font-size: 23px;
+   }
+.answer{
+   background-color:rgb(226, 43, 58);
+   width: 517px;
+   height: 100px;
+   font-size: 25px;
+   color: white; 
+   }
